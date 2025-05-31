@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    // --- Efecto de cabecera fija y cambio de estilo (opcional, si quieres que cambie de color o algo al hacer scroll) ---
+    // ---  Efecto de cabecera fija y cambio de estilo (opcional, si quieres que cambie de color o algo al hacer scroll) ---
     const header = document.querySelector('.main-header');
     const heroSectionHeight = document.querySelector('.hero-section').offsetHeight;
 
